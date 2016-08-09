@@ -9,7 +9,7 @@ wallet = Wallet()
 requests = BitTransferRequests(wallet)
 
 # server address
-server_url = 'http://localhost:4002/'
+server_url = 'http://10.244.107.98:4002/'
 
 @click.command()
 @click.argument('text')
