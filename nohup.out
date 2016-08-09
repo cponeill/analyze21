@@ -1,0 +1,108 @@
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 593-677-334
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [01/Aug/2016 12:35:23] "GET /machine?text=Richard%20Branson%20is%20the%20founder%20of%20Virgin%20Media. HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 12:35:25] "GET /machine?text=Richard%20Branson%20is%20the%20founder%20of%20Virgin%20Media. HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [01/Aug/2016 12:55:01] "GET /machine?text=Bill%20Gates%20started%20Microsoft%20in%20Seattle. HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 12:55:03] "GET /machine?text=Bill%20Gates%20started%20Microsoft%20in%20Seattle. HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [01/Aug/2016 12:55:59] "GET /machine?text=Bill%20Gates%20started%20Microsoft%20in%20Seattle. HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 12:56:00] "GET /machine?text=Bill%20Gates%20started%20Microsoft%20in%20Seattle. HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2016 12:57:10] "GET /machine?text=Google%20uses%20a%20lot%20of%20machine%20learning%20because%20of%20Larry%20Page. HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 12:57:12] "GET /machine?text=Google%20uses%20a%20lot%20of%20machine%20learning%20because%20of%20Larry%20Page. HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2016 13:13:42] "GET /machine?text=I%20would%20like%20to%20watch%20the%20movie%20Star%20Wars%20by%20George%20Lucas. HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 13:13:43] "GET /machine?text=I%20would%20like%20to%20watch%20the%20movie%20Star%20Wars%20by%20George%20Lucas. HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2016 14:08:35] "GET /machine?text=Who%20is%20Steven%20Wozniak? HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 14:08:36] "GET /machine?text=Who%20is%20Steven%20Wozniak? HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [01/Aug/2016 15:49:17] "GET /machine?text=My%20favorite%20books%20are%20the%20Harry%20Potter%20series.%20Wizards%20are%20so%20cool. HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 15:49:19] "GET /machine?text=My%20favorite%20books%20are%20the%20Harry%20Potter%20series.%20Wizards%20are%20so%20cool. HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2016 16:14:16] "GET /machine?text=It%20is%20time%20to%20build%20a%20music%20store%20just%20like%20Virgin%20Media. HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 16:14:17] "GET /machine?text=It%20is%20time%20to%20build%20a%20music%20store%20just%20like%20Virgin%20Media. HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2016 17:08:33] "GET /machine?text=I%20am%20enjoying%20this%20ambient%20music%20by%20Brian%20Eno. HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 17:08:36] "GET /machine?text=I%20am%20enjoying%20this%20ambient%20music%20by%20Brian%20Eno. HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2016 17:09:55] "GET /machine?text=Right%20now%20the%20presidential%20race%20is%20between%20Hillary%20Clinton,%20Donald%20Trump,%20and%20unknowns. HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 17:09:56] "GET /machine?text=Right%20now%20the%20presidential%20race%20is%20between%20Hillary%20Clinton,%20Donald%20Trump,%20and%20unknowns. HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2016 21:59:47] "GET /machine?text=What%20is%20Bitcoin? HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 21:59:49] "GET /machine?text=What%20is%20Bitcoin? HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2016 22:00:00] "GET /machine?text=Bitcoin HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 22:00:01] "GET /machine?text=Bitcoin HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2016 22:00:15] "GET /machine?text=What%20is%20Bitcoin HTTP/1.1" 402 -
+127.0.0.1 - - [01/Aug/2016 22:00:17] "GET /machine?text=What%20is%20Bitcoin HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2016 14:32:37] "GET /machine?text=Good%20Morning%20from%20Seattle. HTTP/1.1" 402 -
+127.0.0.1 - - [02/Aug/2016 14:32:38] "GET /machine?text=Good%20Morning%20from%20Seattle. HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2016 14:33:34] "GET /machine?text=Good%20Morning%20from%20Seattle,%20Washington.%20The%20home%20of%20Microsoft,%20Amazon,%20Nordstrom,%20and%20Starbucks. HTTP/1.1" 402 -
+127.0.0.1 - - [02/Aug/2016 14:33:36] "GET /machine?text=Good%20Morning%20from%20Seattle,%20Washington.%20The%20home%20of%20Microsoft,%20Amazon,%20Nordstrom,%20and%20Starbucks. HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2016 16:09:39] "GET /machine?text=Steve%20Jobs HTTP/1.1" 402 -
+127.0.0.1 - - [02/Aug/2016 16:09:41] "GET /machine?text=Steve%20Jobs HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2016 20:34:56] "GET /machine?text=The%20price%20of%20Bitcoin%20seems%20to%20be%20taking%20a%20dive.%20I%20read%20it%20on%20Twitter%20so%20it%20really%20must%20be%20true. HTTP/1.1" 402 -
+127.0.0.1 - - [02/Aug/2016 20:34:58] "GET /machine?text=The%20price%20of%20Bitcoin%20seems%20to%20be%20taking%20a%20dive.%20I%20read%20it%20on%20Twitter%20so%20it%20really%20must%20be%20true. HTTP/1.1" 200 -
+127.0.0.1 - - [03/Aug/2016 02:21:30] "GET /machine?text=entrepreneur HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 02:21:31] "GET /machine?text=entrepreneur HTTP/1.1" 200 -
+127.0.0.1 - - [03/Aug/2016 02:22:20] "GET /machine?text=Steve%20Jobs%20started%20Apple. HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 02:22:21] "GET /machine?text=Steve%20Jobs%20started%20Apple. HTTP/1.1" 200 -
+127.0.0.1 - - [03/Aug/2016 12:15:41] "GET /machine?text=Duke%20Ellington%20is%20playing%20right%20now.%20I%20really%20enjoy%20jazz%20music. HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 12:15:42] "GET /machine?text=Duke%20Ellington%20is%20playing%20right%20now.%20I%20really%20enjoy%20jazz%20music. HTTP/1.1" 200 -
+127.0.0.1 - - [03/Aug/2016 12:16:16] "GET /machine?text=After%20Duke%20Ellington%20I%20may%20just%20put%20on%20some%20John%20Coltrane. HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 12:16:17] "GET /machine?text=After%20Duke%20Ellington%20I%20may%20just%20put%20on%20some%20John%20Coltrane. HTTP/1.1" 200 -
+127.0.0.1 - - [03/Aug/2016 15:40:05] "GET /machine?text=Nine%20Inch%20Nails HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 15:40:07] "GET /machine?text=Nine%20Inch%20Nails HTTP/1.1" 200 -
+127.0.0.1 - - [03/Aug/2016 15:40:19] "GET /machine?text=Trent%20Reznor HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 15:40:20] "GET /machine?text=Trent%20Reznor HTTP/1.1" 200 -
+127.0.0.1 - - [03/Aug/2016 15:40:49] "GET /machine?text=Do%20you%20prefer%20Coke%20or%20Pepsi? HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 15:40:50] "GET /machine?text=Do%20you%20prefer%20Coke%20or%20Pepsi? HTTP/1.1" 200 -
+127.0.0.1 - - [03/Aug/2016 15:40:59] "GET /machine?text=Do%20you%20prefer%20Coke%20or%20Pepsi HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 15:41:08] "GET /machine?text=Do%20you%20prefer%20Coke%20or%20Pepsi HTTP/1.1" 200 -
+127.0.0.1 - - [03/Aug/2016 15:44:12] "GET /machine?text=Steve%20Jobs%20is%20the%20co-founder%20of%20Apple. HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 15:44:13] "GET /machine?text=Steve%20Jobs%20is%20the%20co-founder%20of%20Apple. HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [03/Aug/2016 15:57:34] "GET /machine?text=Steve%20Jobs%20is%20the%20co-founder%20of%20Apple. HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 15:57:35] "GET /machine?text=Steve%20Jobs%20is%20the%20co-founder%20of%20Apple. HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "server-entities.py", line 42, in <module>
+    app.run(host='0.0.0.0', port=4002)
+  File "/usr/local/lib/python3.4/dist-packages/flask/app.py", line 772, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.4/dist-packages/werkzeug/serving.py", line 694, in run_simple
+    inner()
+  File "/usr/local/lib/python3.4/dist-packages/werkzeug/serving.py", line 656, in inner
+    fd=fd)
+  File "/usr/local/lib/python3.4/dist-packages/werkzeug/serving.py", line 550, in make_server
+    passthrough_errors, ssl_context, fd=fd)
+  File "/usr/local/lib/python3.4/dist-packages/werkzeug/serving.py", line 464, in __init__
+    HTTPServer.__init__(self, (host, int(port)), handler)
+  File "/usr/lib/python3.4/socketserver.py", line 430, in __init__
+    self.server_bind()
+  File "/usr/lib/python3.4/http/server.py", line 133, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/lib/python3.4/socketserver.py", line 444, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [03/Aug/2016 15:58:53] "GET /machine?text=Steve%20Jobs%20is%20the%20co-founder%20of%20Apple. HTTP/1.1" 402 -
+127.0.0.1 - - [03/Aug/2016 15:58:55] "GET /machine?text=Steve%20Jobs%20is%20the%20co-founder%20of%20Apple. HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [09/Aug/2016 14:57:35] "GET /machine?text=Apple%20Computer HTTP/1.1" 402 -
+127.0.0.1 - - [09/Aug/2016 14:57:36] "GET /machine?text=Apple%20Computer HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [09/Aug/2016 15:01:03] "GET /machine?text=Bitcoin HTTP/1.1" 402 -
+127.0.0.1 - - [09/Aug/2016 15:01:04] "GET /machine?text=Bitcoin HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [09/Aug/2016 15:02:42] "GET /machine?text=Bitcoin HTTP/1.1" 402 -
+127.0.0.1 - - [09/Aug/2016 15:02:43] "GET /machine?text=Bitcoin HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [09/Aug/2016 15:03:46] "GET /machine?text=Bitcoin HTTP/1.1" 402 -
+127.0.0.1 - - [09/Aug/2016 15:03:48] "GET /machine?text=Bitcoin HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:4002/ (Press CTRL+C to quit)
+127.0.0.1 - - [09/Aug/2016 15:09:35] "GET /machine?text=Bitcoin HTTP/1.1" 402 -
+127.0.0.1 - - [09/Aug/2016 15:09:37] "GET /machine?text=Bitcoin HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2016 18:14:18] "GET /machine?text=I%20took%20some%20Bitcoin%20and%20bought%20an%20iPhone%20with%20it. HTTP/1.1" 402 -
+127.0.0.1 - - [09/Aug/2016 18:14:19] "GET /machine?text=I%20took%20some%20Bitcoin%20and%20bought%20an%20iPhone%20with%20it. HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2016 18:14:49] "GET /machine?text=I'll%20happily%20buy%20all%20the%20Bitcoin. HTTP/1.1" 402 -
+127.0.0.1 - - [09/Aug/2016 18:14:50] "GET /machine?text=I'll%20happily%20buy%20all%20the%20Bitcoin. HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2016 18:16:41] "GET /machine?text=Bitcoin HTTP/1.1" 402 -
+127.0.0.1 - - [09/Aug/2016 18:16:42] "GET /machine?text=Bitcoin HTTP/1.1" 200 -

@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        analyze21=analyze21:cli
+    
