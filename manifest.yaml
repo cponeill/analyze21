@@ -1,0 +1,18 @@
+info:
+  title: 'Analyze21'
+  description: 'Use machine learning in the command line to analyze text.'
+  x-21-quick-buy: "git clone https://github.com/cponeill/analyze21.git\n
+    cd analyze21\nsudo pip3 install --editable .\nanalyze21 '<your text>'"
+  x-21-category: 'utilities'
+  x-21-app-image: 'https://cdn.filepicker.io/api/file/f8tpt4uqQjSCBjFK4u7N'
+  x-21-total-price:
+    min: 10000
+    max: 10000
+  contact:
+    name: Casey O'Neill
+    email: casey.oneill@gmail.com
+host: 10.244.107.98:4002
+schemes:
+  - http
+basePath: /
+x-21-manifest-path: /manifest
